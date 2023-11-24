@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\UBB\Semester 5\VR\Ray Tracing and Sampling\Ray Tracing and Sampling\obj\Debug\Ray Tracing and Sampling.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\UBB\Semester 5\VR\Ray Tracing and Sampling\Ray Tracing and Sampling\obj\Debug\Ray Tracing and Sampling.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\UBB\Semester 5\VR\Ray Tracing and Sampling\Ray Tracing and Sampling\obj\Debug\Ray Tracing and Sampling.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\UBB\Semester 5\VR\Ray Tracing and Sampling\Ray Tracing and Sampling\bin\Debug\Ray Tracing and Sampling.exe.config
+C:\Users\User\OneDrive\Desktop\UBB\Semester 5\VR\Ray Tracing and Sampling\Ray Tracing and Sampling\bin\Debug\Ray Tracing and Sampling.exe
+C:\Users\User\OneDrive\Desktop\UBB\Semester 5\VR\Ray Tracing and Sampling\Ray Tracing and Sampling\bin\Debug\Ray Tracing and Sampling.pdb
+C:\Users\User\OneDrive\Desktop\UBB\Semester 5\VR\Ray Tracing and Sampling\Ray Tracing and Sampling\obj\Debug\Ray Tracing and Sampling.exe
+C:\Users\User\OneDrive\Desktop\UBB\Semester 5\VR\Ray Tracing and Sampling\Ray Tracing and Sampling\obj\Debug\Ray Tracing and Sampling.pdb
